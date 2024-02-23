@@ -42,7 +42,7 @@ export const Navbar = ({ setCategory }) => {
                 <div className="flex flex-shrink-0 items-center justify-between">
                   <img
                     className="h-8 w-auto mr-2"
-                    src="/NewsApp.png"
+                    src="./NewsApp.png"
                     alt="Your Company Logo"
                   />
                   <div className="flex items-center">
